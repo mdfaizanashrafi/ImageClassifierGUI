@@ -1,0 +1,19 @@
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore model output files
+models/
+checkpoints/
+logs/
+plots/
+
+# Ignore temporary files
+__pycache__
+*.pyc
+*.db
+*.sqlite3
+
+# Ignore virtual environments
+venv/
+env/
