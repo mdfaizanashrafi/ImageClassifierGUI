@@ -1,0 +1,7 @@
+tensorflow
+matplotlib
+scikit-learn
+opencv-python
+pillow
+reportlab
+pyinstaller
